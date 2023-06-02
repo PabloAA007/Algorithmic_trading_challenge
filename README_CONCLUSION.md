@@ -6,4 +6,4 @@ In this model
 ![Cumulative Returns](cumulative_returns.png)
 
 ## Cumulative Actual Returns vs Cumulative Strategy Returns for New Model
-![New Model Strategy Returns]()
+![New Model Strategy Returns](new_model_strategy_returns.png)
