@@ -26,7 +26,7 @@ The end result of this investigation is to create a trading strategy that perfor
 
 ## Charts
 
-In the charts below, we can observe the differewnce between the original and the new model created using `AdaBoostClassifier`
+In the charts below, we can observe the difference between the original and the new model created using `AdaBoostClassifier`
 
 ## Cumulative Actual Returns vs Cumulative Strategy Returns
 ![Cumulative Returns](cumulative_returns.png)
